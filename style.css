@@ -1,11 +1,16 @@
-body{
+body {
   width: 100%;
   margin: 0;
   padding: 0;
 }
 
 main {
+  background-image: url(assets/apple-main-img.jpg);
+  background-position: 0 0;
+  background-repeat: no-repeat;
   width: 100%;
+  height: 400px;
+  padding-top: 100px;
 }
 
 nav {
@@ -50,14 +55,26 @@ nav ul li {
   opacity: 0.8;
 }
 
+main p a {
+  text-decoration: none;
+  color: white;
+}
+
 .right-footer a {
   text-decoration: none;
   color: #08c;
 }
 
-main p a {
+a:hover {
+  text-decoration: underline;
+}
+
+.main-img li a {
   text-decoration: none;
-  color: white;
+}
+
+.main-img p a {
+  text-decoration: none;
 }
 
  main p a:hover {
@@ -108,35 +125,14 @@ main p a {
   float: left;
 }
 
-main {
-  background-image: url(assets/apple-main-img.jpg);
-  background-position: 0 0;
-  background-repeat: no-repeat;
-  width: 100%;
-  height: 400px;
-  padding-top: 100px;
-}
-
 .main-img a {
   color: white;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-.main-img li a {
-  text-decoration: none;
 }
 
 .main-img h5 {
   text-align: center;
   align-content: center;
   color: white;
-}
-
-.main-img p a {
-  text-decoration: none;
 }
 
 .main-img-p1 {
