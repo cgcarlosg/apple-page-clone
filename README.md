@@ -1,4 +1,3 @@
-
 # APPLE PAGE - CLONE
 
 This is a clone of the Apple original web page. It is a project to show the implementation of HTML and CSS Gradients and background images. It is done as part of the microverse program for the fourth project of the curriculum.
@@ -63,4 +62,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](license) licensed.
+This project is [MIT](LICENSE) licensed.
