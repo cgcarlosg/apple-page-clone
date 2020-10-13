@@ -23,6 +23,8 @@ nav {
 
 .top-element {
   align-items: center;
+  background: linear-gradient(to bottom, #828282, #707070, #5f5f5f, #656565, #727272);
+  width: 100%;
 }
 
 .img-apple {
@@ -43,8 +45,26 @@ nav a {
   text-decoration: none;
 }
 
+main p a {
+  text-decoration: none;
+  color: white;
+}
+
+.right-footer a {
+  text-decoration: none;
+  color: #08c;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.main-img a {
+  color: white;
+}
+
 nav a:hover {
-text-decoration: none;
+  text-decoration: none;
 }
 
 footer li {
@@ -66,31 +86,8 @@ nav ul li {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-.top-element {
-  background: linear-gradient(to bottom, #828282, #707070, #5f5f5f, #656565, #727272);
-  width: 100%;
-}
-
 .top-element img {
   opacity: 0.8;
-}
-
-main p a {
-  text-decoration: none;
-  color: white;
-}
-
-.right-footer a {
-  text-decoration: none;
-  color: #08c;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-.main-img a {
-  color: white;
 }
 
 .main-img li a {
