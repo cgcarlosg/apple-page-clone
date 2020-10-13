@@ -1,5 +1,5 @@
 body {
-  width: 100%;
+  max-width: 100%;
   margin: 0;
   padding: 0;
 }
@@ -21,10 +21,30 @@ nav {
   align-self: center;
 }
 
+.top-element {
+  align-items: center;
+}
+
+.img-apple {
+  width: 15px;
+  margin-top: 2px;
+}
+
 nav ul {
   list-style: none;
   display: flex;
   width: 70%;
+  font-size: 14px;
+}
+
+nav a {
+  list-style: none;
+  color: white;
+  text-decoration: none;
+}
+
+nav a:hover {
+text-decoration: none;
 }
 
 footer li {
