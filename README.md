@@ -3,7 +3,7 @@
 
 This is a clone of the Apple original web page. It is a project to show the implementation of HTML and CSS Gradients and background images. It is done as part of the microverse program for the fourth project of the curriculum.
 
-![screenshot]()
+![screenshot](https://github.com/cgcarlosg/apple-page-clone/blob/feature/assets/screenshot.png)
 
 
 ## Built With
