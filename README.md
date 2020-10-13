@@ -47,7 +47,7 @@ This projects diplays the videos.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/cgcarlosg/apple-page-clone/tree/feature).
+Feel free to check the [issues page](https://github.com/cgcarlosg/apple-page-clone/issues).
 
 
 ## Show your support
