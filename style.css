@@ -26,6 +26,11 @@ nav {
   opacity: 0.8;
 }
 
+a {
+  text-decoration: none;
+  color: #08c;
+}
+
 nav a {
   text-decoration: none;
   color: white;
@@ -47,7 +52,7 @@ nav a {
 }
 
 .top-element:hover {
-  background-image: linear-gradient(to bottom, #727272, #444444, #222);
+  background-image: linear-gradient(to bottom, #727272, #444, #222);
   cursor: pointer;
 }
 
@@ -89,11 +94,6 @@ nav a {
   text-align: center;
   align-content: center;
   color: white;
-}
-
-a {
-  text-decoration: none;
-  color: #0088cc;
 }
 
 .main-img a {
@@ -148,7 +148,7 @@ a:hover {
 }
 
 footer {
-  font-family:  Lucida Grande, Lucida Sans Unicode, Helvetica, Arial, Verdana, sans-serif;
+  font-family: Lucida Grande, Lucida Sans Unicode, Helvetica, Arial, Verdana, sans-serif;
   background-color: white;
   height: auto;
   width: 100%;
@@ -180,7 +180,6 @@ footer ul {
 }
 
 footer li {
-  display:flex;
   font-size: 11px;
   display: inline;
   padding-right: 5px;
