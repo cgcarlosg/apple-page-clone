@@ -1,9 +1,8 @@
-
 # APPLE PAGE - CLONE
 
 This is a clone of the Apple original web page. It is a project to show the implementation of HTML and CSS Gradients and background images. It is done as part of the microverse program for the fourth project of the curriculum.
 
-![screenshot](https://github.com/cgcarlosg/apple-clone/blob/feature-branch-apple/assets/screenshot.png)
+![screenshot](https://github.com/cgcarlosg/apple-page-clone/blob/feature/assets/screenshot.png)
 
 
 ## Built With
@@ -48,7 +47,7 @@ This projects diplays the videos.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/shahnaeem/NYT-homepage/issues).
+Feel free to check the [issues page](https://github.com/cgcarlosg/apple-page-clone/tree/feature).
 
 
 ## Show your support
@@ -63,4 +62,5 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](license.md/) licensed.
+This project is [MIT](LICENSE) licensed.
+
