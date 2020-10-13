@@ -1,4 +1,10 @@
-body {
+body{
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+main {
   width: 100%;
 }
 
@@ -44,14 +50,18 @@ nav ul li {
   opacity: 0.8;
 }
 
-a {
+.right-footer a {
   text-decoration: none;
   color: #08c;
 }
 
-nav a {
+main p a {
   text-decoration: none;
   color: white;
+}
+
+ main p a:hover {
+  text-decoration: none;
 }
 
 .top-element h5 {
@@ -71,7 +81,6 @@ nav a {
 
 .top-element:hover {
   background-image: linear-gradient(to bottom, #727272, #444, #222);
-  cursor: pointer;
 }
 
 .top-element-search:hover {
@@ -99,11 +108,11 @@ nav a {
   float: left;
 }
 
-.main-img {
+main {
   background-image: url(assets/apple-main-img.jpg);
   background-position: 0 0;
   background-repeat: no-repeat;
-  width: 99%;
+  width: 100%;
   height: 400px;
   padding-top: 100px;
 }
@@ -155,12 +164,16 @@ a:hover {
 }
 
 .four-img {
-  max-width: 100%;
-  display: inline-block;
+  width: 100%;
+  display: flex;
+  padding: 0;
+  margin: 0;
 }
 
 .image {
-  width: 24.5%;
+  width: 336px;
+  margin: 0;
+  padding: 0;
 }
 
 .container {
@@ -198,7 +211,7 @@ footer ul {
   padding: 0;
   height: 20px;
   text-align: right;
-  margin-right: 20px;
+  margin-right: 10px;
   justify-content: center;
   margin-top: 6px;
 }
@@ -213,7 +226,6 @@ footer ul {
   text-align: left;
   height: auto;
   margin: 0;
-  padding: 0;
   font-size: 10px;
 }
 
@@ -224,11 +236,16 @@ footer ul {
   margin-top: 2px;
 }
 
+.right-footer ul li {
+  margin: 0;
+  padding: 0;
+}
+
 .down-footer {
   width: 100%;
   font-size: 10px;
 }
 
 .down-footer ul {
-  margin-left: 113px;
+  margin-left: 123px;
 }
