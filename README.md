@@ -14,7 +14,7 @@ This is a clone of the Apple original web page. It is a project to show the impl
 
 ## Live Demo
 
-[Live Demo Link](https://cgcarlosg.github.io/apple-clone/)
+[Live Demo Link](https://cgcarlosg.github.io/apple-page-clone/)
 
 
 ## Getting Started
@@ -36,7 +36,7 @@ This projects diplays the videos.
 👨🏻‍💻 **Carlos Albenio Gutierrez Monroy**
 - GitHub: [@cgcarlosg](https://github.com/cgcarlosg)
 - Twitter: [@cgcarlosg1](https://twitter.com/cgcarlosg1)
-- LinkedIn: [@carlosalbeniogutierrez](www.linkedin.com/in/carlosalbeniogutierrez)
+- LinkedIn: [@carlosalbeniogutierrez](https://linkedin.com/in/carlosalbeniogutierrez)
 
 👨🏻‍💻 **Mohd Nayeem Shah**
 - GitHub: [@shahnaeem](https://github.com/shahnaeem)
