@@ -14,7 +14,7 @@ This is a clone of the Apple original web page. It is a project to show the impl
 
 ## Live Demo
 
-[Live Demo Link](https://cgcarlosg.github.io/apple-clone/)
+[Live Demo Link](https://cgcarlosg.github.io/apple-page-clone/)
 
 
 ## Getting Started
